@@ -11,9 +11,11 @@ The following is the list of content we cover in this tutorial. We do not cover 
 3. Random Numbers
 4. Monte Carlo Simulation
 5. Common Random Number
-6. Random Number generation<br>
-  6.1. Gibbs Sampling <br>
-  6.2. Metropolis-Hastings
+6. Random Number generation
+7. Gibbs Sampling 
+8. Metropolis algorithm
+9. Metropolis-Hastings
+10. Expectation Maximization
 
 # Resources
 1. Bayesian Data Analysis (Book by Gelman) : http://www.stat.columbia.edu/~gelman/book/
