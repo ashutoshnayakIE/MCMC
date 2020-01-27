@@ -18,3 +18,4 @@ The following is the list of content we cover in this tutorial. We do not cover 
 # Resources
 1. Bayesian Data Analysis (Book by Gelman) : http://www.stat.columbia.edu/~gelman/book/
 2. Bayesian Methods for Machine Learning   : https://www.coursera.org/learn/mcmc-bayesian-statistics
+3. Random number generation (CMU)          : http://www.stat.cmu.edu/~brian/463-663/week10/Chapter%2004.pdf
