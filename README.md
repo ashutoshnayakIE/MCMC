@@ -11,8 +11,8 @@ The following is the list of content we cover in this tutorial. We do not cover 
 3. Random Numbers
 4. Monte Carlo Simulation
 5. Common Random Number
-6. Random Number generation
-  6.1. Gibbs Sampling
+6. Random Number generation<br>
+  6.1. Gibbs Sampling <br>
   6.2. Metropolis-Hastings
 
 # Resources
