@@ -13,5 +13,5 @@ The following is the list of content we cover in this tutorial. We assume that y
 5. Metropolis-Hastings
 
 # Resources
-1. Bayesian Data Analysis (Book by Gelman)
-2. Bayesian Methods for Machine Learning
+1. Bayesian Data Analysis (Book by Gelman) : http://www.stat.columbia.edu/~gelman/book/
+2. Bayesian Methods for Machine Learning   : https://www.coursera.org/learn/mcmc-bayesian-statistics
